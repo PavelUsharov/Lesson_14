@@ -1,0 +1,14 @@
+
+:root{
+
+    /*--main-bg-color: #1e8c0e;*/
+    --header-height: 60px;
+    --main-content-padding: 0 20px;
+    --main-text-color: #000;
+
+    --font-srift-a: 'HarmoniaSansW01-Bold', serif, sans-serif;;
+    --font-srift-html: 'HarmoniaSansW01-Bold', serif, sans-serif;;
+
+
+    --control-color: rgba(136,90,215,1);
+}
